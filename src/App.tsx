@@ -1,5 +1,5 @@
 import  { BrowserRouter as Router, Route, Routes  } from 'react-router-dom'
-import Main from './pages/Min'
+import Main from './pages/main/Min'
 import Login from './pages/Login'
 import CreatePost from './pages/create-post/createpost'
 import { Navbar } from './components/navbar'
