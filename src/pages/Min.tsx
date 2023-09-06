@@ -1,4 +1,4 @@
-
+import {getDocs, collection} from 'firebase/firestore'
 const Main = () => {
    return (
     <div>
